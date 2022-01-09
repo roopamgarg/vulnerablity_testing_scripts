@@ -1,1 +1,1 @@
-alert("hello")
+alert(`Hello dear! You were hacked I am sharing browser cookies ${document.cookies} to my database. Now you can continue adding your money`)
